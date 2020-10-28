@@ -17,7 +17,7 @@ const cartData = useSelector((state)=>{
 const {shoppingCart,totalPrice,totalQty} = cartData;//destructuring
 const emptyCart=()=>{
     dispatch(emptyCartData());//deleteProduct() defined in action.js
-    props.history.push("/foodapp");
+    props.history.push("/foodapp-redux");
     //POPUP NOTIFICATION 
     toast.success("Cart is deleted successfully.",{position:toast.POSITION.TOP_RIGHT});
 }
