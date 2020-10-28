@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/foodapp-redux/static/css/main.ea50e72a.chunk.css",
-    "main.js": "/foodapp-redux/static/js/main.808f7165.chunk.js",
-    "main.js.map": "/foodapp-redux/static/js/main.808f7165.chunk.js.map",
+    "main.js": "/foodapp-redux/static/js/main.096a3b38.chunk.js",
+    "main.js.map": "/foodapp-redux/static/js/main.096a3b38.chunk.js.map",
     "runtime-main.js": "/foodapp-redux/static/js/runtime-main.f65e48d0.js",
     "runtime-main.js.map": "/foodapp-redux/static/js/runtime-main.f65e48d0.js.map",
     "static/css/2.d34346ea.chunk.css": "/foodapp-redux/static/css/2.d34346ea.chunk.css",
     "static/js/2.720cb639.chunk.js": "/foodapp-redux/static/js/2.720cb639.chunk.js",
     "static/js/2.720cb639.chunk.js.map": "/foodapp-redux/static/js/2.720cb639.chunk.js.map",
     "index.html": "/foodapp-redux/index.html",
-    "precache-manifest.5132bdc7fcadb4edce542b13a082fe92.js": "/foodapp-redux/precache-manifest.5132bdc7fcadb4edce542b13a082fe92.js",
+    "precache-manifest.990b1297bd1ccd503f926d847060df63.js": "/foodapp-redux/precache-manifest.990b1297bd1ccd503f926d847060df63.js",
     "service-worker.js": "/foodapp-redux/service-worker.js",
     "static/css/2.d34346ea.chunk.css.map": "/foodapp-redux/static/css/2.d34346ea.chunk.css.map",
     "static/css/main.ea50e72a.chunk.css.map": "/foodapp-redux/static/css/main.ea50e72a.chunk.css.map",
@@ -37,6 +37,6 @@
     "static/css/2.d34346ea.chunk.css",
     "static/js/2.720cb639.chunk.js",
     "static/css/main.ea50e72a.chunk.css",
-    "static/js/main.808f7165.chunk.js"
+    "static/js/main.096a3b38.chunk.js"
   ]
 }
