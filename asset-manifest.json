@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/foodapp-redux/static/css/main.ea50e72a.chunk.css",
+    "main.js": "/foodapp-redux/static/js/main.808f7165.chunk.js",
+    "main.js.map": "/foodapp-redux/static/js/main.808f7165.chunk.js.map",
+    "runtime-main.js": "/foodapp-redux/static/js/runtime-main.f65e48d0.js",
+    "runtime-main.js.map": "/foodapp-redux/static/js/runtime-main.f65e48d0.js.map",
+    "static/css/2.d34346ea.chunk.css": "/foodapp-redux/static/css/2.d34346ea.chunk.css",
+    "static/js/2.720cb639.chunk.js": "/foodapp-redux/static/js/2.720cb639.chunk.js",
+    "static/js/2.720cb639.chunk.js.map": "/foodapp-redux/static/js/2.720cb639.chunk.js.map",
+    "index.html": "/foodapp-redux/index.html",
+    "precache-manifest.5132bdc7fcadb4edce542b13a082fe92.js": "/foodapp-redux/precache-manifest.5132bdc7fcadb4edce542b13a082fe92.js",
+    "service-worker.js": "/foodapp-redux/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/foodapp-redux/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.ea50e72a.chunk.css.map": "/foodapp-redux/static/css/main.ea50e72a.chunk.css.map",
+    "static/js/2.720cb639.chunk.js.LICENSE.txt": "/foodapp-redux/static/js/2.720cb639.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/foodapp-redux/static/media/banner.6b8caf6f.jpg",
+    "static/media/burger.jpg": "/foodapp-redux/static/media/burger.8cb4c37e.jpg",
+    "static/media/chicken.jpg": "/foodapp-redux/static/media/chicken.cb463d9c.jpg",
+    "static/media/chickenbirynai.jpg": "/foodapp-redux/static/media/chickenbirynai.f5bd388b.jpg",
+    "static/media/coffee.jpg": "/foodapp-redux/static/media/coffee.fa5c54d6.jpg",
+    "static/media/cold-coffee.jpg": "/foodapp-redux/static/media/cold-coffee.cdc01a28.jpg",
+    "static/media/dumplings.jpg": "/foodapp-redux/static/media/dumplings.aa13e80d.jpg",
+    "static/media/friedfish.jpg": "/foodapp-redux/static/media/friedfish.a71f66c2.jpg",
+    "static/media/icecream.jpg": "/foodapp-redux/static/media/icecream.8118aacd.jpg",
+    "static/media/noodles.jpg": "/foodapp-redux/static/media/noodles.97b6c43b.jpg",
+    "static/media/pasta.jpg": "/foodapp-redux/static/media/pasta.9f8c39cc.jpg",
+    "static/media/piza.jpg": "/foodapp-redux/static/media/piza.4b81deda.jpg",
+    "static/media/popcorn.jpg": "/foodapp-redux/static/media/popcorn.4c52a43c.jpg",
+    "static/media/sweet.jpg": "/foodapp-redux/static/media/sweet.2728c62e.jpg",
+    "static/media/tofu-noodles.jpg": "/foodapp-redux/static/media/tofu-noodles.38896a32.jpg",
+    "static/media/tofu-receipe.jpg": "/foodapp-redux/static/media/tofu-receipe.822cd4ce.jpg",
+    "static/media/veg-roll.jpg": "/foodapp-redux/static/media/veg-roll.6dc96543.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f65e48d0.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.720cb639.chunk.js",
+    "static/css/main.ea50e72a.chunk.css",
+    "static/js/main.808f7165.chunk.js"
+  ]
+}
