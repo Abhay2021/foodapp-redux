@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "685b5c5878e2230a63cefd3a702c6165",
+    "revision": "283fc8c568df76a4d98181edcd71a163",
     "url": "/foodapp-redux/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodapp-redux/static/css/2.d34346ea.chunk.css"
   },
   {
-    "revision": "2eed05290d9419084f6e",
-    "url": "/foodapp-redux/static/css/main.ea50e72a.chunk.css"
+    "revision": "12e10f4fe64cc84db2b2",
+    "url": "/foodapp-redux/static/css/main.39f1c451.chunk.css"
   },
   {
     "revision": "de87693a8a6968f72887",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodapp-redux/static/js/2.720cb639.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2eed05290d9419084f6e",
-    "url": "/foodapp-redux/static/js/main.096a3b38.chunk.js"
+    "revision": "12e10f4fe64cc84db2b2",
+    "url": "/foodapp-redux/static/js/main.26ddca5c.chunk.js"
   },
   {
     "revision": "b2dfa26d9f17b9e52a4c",
